@@ -13,6 +13,7 @@
 @interface BallViewController : UIViewController
 
 
+
 typedef enum {
     BallViewControllerStyleAlert = 0,  // 提示框类型
     BallViewControllerStyleSheet
